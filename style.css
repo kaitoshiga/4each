@@ -1,0 +1,112 @@
+.box1 img {
+    width: 25%;
+}
+
+header {
+    width: 100%;
+    color: white;
+    background-color: black;
+    text-align:left;
+    line-height: 80px;
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-bottom: 30px;
+}
+
+header ul li {
+    float: left;
+    list-style: none;
+    padding-right: 30px;
+    font-size: 40px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+main {
+    clear: both;
+}
+
+.main-container {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+.left {
+    float: left;
+    width: 70%;
+    margin-bottom: 40px;
+}
+
+.left h1 {
+    font-size: 100px;
+    border-left: 30px solid black;
+    border-bottom: 3px solid gray;
+}
+
+.left p {
+    font-size: 50px;
+}
+
+.left img {
+    width: 100%;
+}
+
+.left .p {
+    font-size: 30px;
+}
+
+.right {
+    float: left;
+    width: 30%;
+    margin-bottom: 40px;
+}
+
+.right h2 {
+    border-bottom: 1px solid gray;
+    font-size: 70px;
+    margin-top: 105px;
+    margin-bottom: 5px;
+    margin-left: 150px;
+}
+
+.right p {
+    font-size: 50px;
+    color: black;
+    margin-left: 250px;
+}
+
+.box2 {
+    width: 3150px;
+    background-color: lightgray;
+    text-align: center;
+    padding: 100px 5px 50px 5px;
+    margin-bottom: 100px;
+}
+
+.box2 img {
+    width: 700px;
+    margin: 15px 40px 15px 40px; 
+}
+
+.box2 p {
+    margin: 5px 10px 5px 10px;
+    font-size: 60px;
+}
+
+.box2 .box_pic2 {
+    display: inline-block;
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 40px;
+    
+}
